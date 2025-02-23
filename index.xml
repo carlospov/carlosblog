@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2025 11:09:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 11:37:49 +0100</lastBuildDate>
     <atom:link href="https://carlospov.github.io/carlosblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://carlospov.github.io/carlosblog/docs/test/</link>
+      <pubDate>Sun, 23 Feb 2025 11:37:49 +0100</pubDate>
+      <guid>https://carlospov.github.io/carlosblog/docs/test/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://carlospov.github.io/carlosblog/posts/my-first-post/</link>
