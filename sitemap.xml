@@ -17,8 +17,15 @@
     <loc>https://carlospov.github.io/carlosblog/posts/</loc>
     <lastmod>2025-02-23T11:09:00+01:00</lastmod>
   </url><url>
-    <loc>https://carlospov.github.io/carlosblog/categories/</loc>
+    <loc>https://carlospov.github.io/carlosblog/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://carlospov.github.io/carlosblog/posts/blabla/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://carlospov.github.io/carlosblog/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://carlospov.github.io/carlosblog/categories/</loc>
   </url>
 </urlset>
