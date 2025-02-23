@@ -18,7 +18,9 @@
       <link>https://carlospov.github.io/carlosblog/docs/test/</link>
       <pubDate>Sun, 23 Feb 2025 11:37:49 +0100</pubDate>
       <guid>https://carlospov.github.io/carlosblog/docs/test/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
