@@ -1,0 +1,4 @@
+baseURL: "https://carlospov.github.io/carlosblog/"
+languageCode: en-us
+title: My New Hugo Site
+theme: ["PaperMod"]
