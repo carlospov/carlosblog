@@ -4,7 +4,7 @@ draft: false
 title: 'My First Post'
 ---
 
-## Introduction
+## My first post
 
 This is **bold** text, and this is *emphasized* text.
 
