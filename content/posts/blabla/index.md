@@ -39,3 +39,5 @@ editPost:
 ## My first post using the template
 
 This post is created with an archetype.
+
+![Image](depositphotos_88120646-stock-photo-idyllic-summer-landscape-with-clear.jpg)    
