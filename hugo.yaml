@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Carlospov's Blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -71,7 +71,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Welcome \U0001F986"
     Content: Welcome to my blog
 
   socialIcons:
