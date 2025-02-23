@@ -4,9 +4,23 @@
     <title>My New Hugo Site</title>
     <link>https://carlospov.github.io/carlosblog/</link>
     <description>Recent content on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>https://carlospov.github.io/carlosblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://carlospov.github.io/carlosblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 11:09:00 +0100</lastBuildDate>
     <atom:link href="https://carlospov.github.io/carlosblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://carlospov.github.io/carlosblog/posts/my-first-post/</link>
+      <pubDate>Sun, 23 Feb 2025 11:09:00 +0100</pubDate>
+      <guid>https://carlospov.github.io/carlosblog/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
